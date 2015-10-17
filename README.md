@@ -1,2 +1,2 @@
-# 1798
-在这里记录一些笔记
+# learning sample
+
